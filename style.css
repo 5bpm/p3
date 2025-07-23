@@ -40,6 +40,12 @@ body {
     font-size: 1.5rem;
     font-weight: 600;
 }
+.pm-header .logo h1 {
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    left: 0;
+}
 
 .main-nav ul {
     display: flex;
